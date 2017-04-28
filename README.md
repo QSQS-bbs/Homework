@@ -5,4 +5,4 @@
 
 
 ## 如何创建新文件夹
-点击Create File，填写文件名的时候加上路径，比如说创建
+点击Create new File，填写文件名的时候加上路径，比如说创建abc.html在John目录First文件夹下，在文件名窗口输入John/First/abc.html就行
