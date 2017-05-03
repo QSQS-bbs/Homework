@@ -1,0 +1,16 @@
+<html> 
+<body> 
+<?php 
+$text = '1'; 
+  $sum = 1; 
+  for($i=1;$i<100;$i++) 
+  { 
+   $j = $i+1; 
+   $sum += $j; 
+   $item = "+$j"; 
+   $text .= $item; 
+ echo $text."=".$sum."<br>"; 
+  }  
+  ?> 
+</body> 
+</html>
